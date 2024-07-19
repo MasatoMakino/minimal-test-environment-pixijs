@@ -26,4 +26,4 @@ jobs:
       env:
         DETECT_CHROMEDRIVER_VERSION: true
     - run: npm run build --if-present
-    - run: npm test
+    - run: xvfb-run --auto-servernum npm test
