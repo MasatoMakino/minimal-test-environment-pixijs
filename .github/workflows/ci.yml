@@ -21,10 +21,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - uses: browser-actions/setup-chrome@v1
-      with:
-        install-chromedriver: true
-    - run: chrome --version    
     - name: Install Dependencies
       run: npm ci
       env:
