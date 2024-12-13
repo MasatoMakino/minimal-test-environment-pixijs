@@ -16,6 +16,6 @@
     "@vitest/browser": "^2.1.8",
     "pixi.js": "^8.6.4",
     "typescript": "^5.7.2",
-    "webdriverio": "^9.4.1"
+    "webdriverio": "^9.4.2"
   }
 }
