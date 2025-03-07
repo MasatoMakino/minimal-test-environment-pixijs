@@ -13,7 +13,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@vitest/browser": "^3.0.7",
+    "@vitest/browser": "^3.0.8",
     "pixi.js": "^8.8.1",
     "typescript": "^5.8.2",
     "webdriverio": "^9.11.0"
