@@ -15,7 +15,7 @@
   "devDependencies": {
     "@vitest/browser": "^3.0.9",
     "pixi.js": "^8.8.1",
-    "typescript": "^5.8.2",
+    "typescript": "^5.8.3",
     "webdriverio": "^9.12.3"
   }
 }
